@@ -1,0 +1,47 @@
+h1
+{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.trait
+{
+    display:inline-block;
+    position: absolute;
+    border-bottom: 1.5px solid rgba(84, 84, 84, 0.3);
+    width: 20%;
+    right: 35%;
+    left: 40%;
+    padding-top: 0.6em;
+    
+}
+.pastille
+{
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 1.5px solid #fff;
+    width: 20px;
+    padding: .5em;
+    background-color: #4eb1d5;
+    right: 50%;
+    left: 50%;
+
+}
+#services
+{
+    padding-top: 2em;
+    width: 50%;
+    margin: auto;
+}
+
+footer
+{
+
+    
+    background-color:black;
+    width: 100%;
+   
+    color: #fff;
+    text-align: center;
+}
